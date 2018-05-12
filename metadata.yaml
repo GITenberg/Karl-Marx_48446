@@ -1,10 +1,16 @@
 _repo: Karl-Marx_48446
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48446-h/images/cover.jpg
 creator:
   author:
     agent_name: Loria, Achille
     gutenberg_agent_id: '44800'
     url: http://www.gutenberg.org/2009/agents/44800
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48446#Karl-Marx
 gutenberg_issued: '2015-03-09'
 gutenberg_type: Text
 identifiers:
